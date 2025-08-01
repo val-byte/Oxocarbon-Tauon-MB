@@ -1,0 +1,124 @@
+# ------------------------------------------------------
+# Tauon Music Box Theme File - Oxocarbon Base16
+# ------------------------------------------------------
+
+# ---- Backgrounds ----
+
+22,22,22        top panel
+38,38,38        tracklist panel
+22,22,22        side panel
+22,22,22        bottom panel
+57,57,57        queue panel
+22,22,22        gallery background
+
+# ---- Playlist ----
+
+242,244,248     track line
+82,82,82        track time
+82,82,82        track index
+255,126,182     track artist
+255,111,0       track album
+
+255,255,255     track playing
+255,255,255     time playing
+255,255,255     index playing
+255,126,182     artist playing
+255,111,0       album playing
+
+238,83,150      track missing
+
+221,225,230     fav line
+57,57,57        folder line
+221,225,230     folder title
+
+22,22,22        playing highlight
+38,38,38        select highlight
+255,126,182     gallery highlight
+
+22,22,22        column bar background
+
+# ---- Menu ----
+
+22,22,22        menu background
+38,38,38        menu highlight
+57,57,57        menu border
+242,244,248     menu text
+82,82,82        menu disable text
+82,82,82        menu icons
+
+# ---- Top Panel ----
+
+221,225,230     tab active text
+82,82,82        tab text
+38,38,38        tab over
+38,38,38        tab active background
+22,22,22        tab background
+
+255,126,182     music vis
+
+22,22,22        window buttons background
+82,82,82        window buttons off
+57,57,57        window buttons on
+221,225,230     window buttons icon over
+
+# ---- Bottom Panel ----
+
+82,82,82        buttons off
+221,225,230     buttons over
+221,225,230     buttons active
+
+255,126,182     playing time
+
+255,126,182     seek bar
+57,57,57        seek bg
+57,57,57        volume bg
+82,82,82        volume bar
+
+57,57,57        scroll bar
+
+82,82,82        mode off
+221,225,230     mode over
+221,225,230     mode on
+
+221,225,230     bottom title
+
+# ---- Side Panel ----
+
+221,225,230     title info
+242,244,248     extra info
+22,22,22        art border
+
+# ---- Mini Mode ----
+
+38,38,38        mini bg
+57,57,57        mini border
+221,225,230     mini text 1
+
+# ---- Artist Info ----
+
+57,57,57        artist bio background
+242,244,248     artist bio text
+
+# ---- Misc ----
+
+57,57,57        window frame
+
+# ---- Dialog Box ----
+
+19,19,21        box background
+57,57,57        box border
+
+221,225,230     box title text
+82,82,82        box text label
+
+221,225,230     box text normal
+221,225,230     box sub text
+221,225,230     box input text
+57,57,57        box text border
+
+242,244,248     box button text normal
+255,255,255     box button text highlight
+22,22,22        box button background normal
+38,38,38        box button background highlight
+57,57,57        box button border
+
