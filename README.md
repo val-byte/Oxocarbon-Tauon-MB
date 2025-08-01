@@ -8,7 +8,11 @@ Oxocarbon is a High contrast accessible colorscheme inspired by IBM Carbon. It d
 
 ## Installation
 
-- Installation Instructions
+Download the "Oxocarbon.ttheme" file in this repo,
+Open Tauon-MB, and go to "Menu > Settings > Function > Data Folder",
+After, open the folder called "theme" and paste the "Oxocarbon.ttheme" file inside.
+
+When you restart tauon and go to "Menu > Settings > Theme", you will find the theme.
 
 ## Contributing
 
