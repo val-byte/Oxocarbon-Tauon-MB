@@ -4,7 +4,7 @@
 
 Oxocarbon is a High contrast accessible colorscheme inspired by IBM Carbon. It delivers class-leading readability without strain by adhering to WCAG 2.1 guidelines
 
-<img width="996" height="706" alt="image" src="https://github.com/user-attachments/assets/3cac942d-8496-4351-b818-4b99ae65bfa7" />
+<img width="1277" height="710" alt="image" src="https://github.com/user-attachments/assets/43dbc74c-159a-4143-9b8b-51af67abc4b0" />
 
 ## Installation
 
